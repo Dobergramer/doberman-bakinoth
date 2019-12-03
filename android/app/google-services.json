@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "242830762770",
+    "firebase_url": "https://flutter-email-login.firebaseio.com",
+    "project_id": "flutter-email-login",
+    "storage_bucket": "flutter-email-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242830762770:android:221dbdbdafb1e2c3f389cb",
+        "android_client_info": {
+          "package_name": "com.bakinoth.doberman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242830762770-5l0urm7dpd0p6njpog6q7aeff2ntsjse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRx-cKRUqXl7IsW_trSNoSGOWxWO7hbUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242830762770-5l0urm7dpd0p6njpog6q7aeff2ntsjse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242830762770:android:2d972a60366fbb51f389cb",
+        "android_client_info": {
+          "package_name": "com.dobermann.dobermannemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242830762770-5l0urm7dpd0p6njpog6q7aeff2ntsjse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRx-cKRUqXl7IsW_trSNoSGOWxWO7hbUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242830762770-5l0urm7dpd0p6njpog6q7aeff2ntsjse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
